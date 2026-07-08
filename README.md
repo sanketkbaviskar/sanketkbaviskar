@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=21759B&center=true&vCenter=true&width=600&lines=Building+fast%2C+secure%2C+WordPress+experiences;Custom+Themes+%7C+Plugins+%7C+WooCommerce;Core+Web+Vitals+%26+Performance+Optimization;Status%3A+Open+To+Work+%7C+Available+Remote" alt="Typing SVG" />
 </p>
 
-<!-- 👁️ PROFILE VISIT COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=sanketkbaviskar&label=Profile%20Views&color=21759B&style=flat-square" alt="Profile Views" />
-</p>
-
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td width="45%" align="center" valign="middle">
