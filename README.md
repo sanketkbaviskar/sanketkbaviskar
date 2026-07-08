@@ -37,11 +37,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <img src="https://img.shields.io/badge/Google%20PageSpeed-80%2B%20Score-important?style=for-the-badge&logo=googlechrome" />
 </p>
 
-<!-- 📉 REAL-TIME GITHUB STREAK STATS -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketkbaviskar&theme=radical&hide_border=true" width="100%" />
-</p>
-
 ## 🧩 Technical Skills
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
