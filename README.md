@@ -141,50 +141,88 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 ---
 
-## ⚡ Services
+---
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+## ⚡ Services & Solutions
+
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🔧 WordPress Development
-Custom themes, plugins & Elementor/Gutenberg builds tailored to business needs
+### 🔧 Custom WordPress Development
+<img src="https://img.shields.io/badge/Development-Custom%20Themes%20%7C%20Plugins-21759B?style=flat-square" />
+<ul>
+  <li>Coding pixel-perfect layouts from Figma / Adobe XD designs</li>
+  <li>Building scalable Custom Themes, Plugins, and Block/Elementor architectures</li>
+  <li>Utilizing Advanced Custom Fields (ACF) for clean, flexible backend management</li>
+</ul>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🛒 WooCommerce
-Full-store setup, checkout optimization, payment gateway & inventory integration
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚡ Performance
-Core Web Vitals tuning, caching, and image/lazy-load optimization for 80+ PageSpeed scores
+### 🛒 WooCommerce E-Commerce
+<img src="https://img.shields.io/badge/E--Commerce-High%20Converting-96588A?style=flat-square" />
+<ul>
+  <li>End-to-end store setup and conversion-focused checkout optimization</li>
+  <li>Seamless integration with Razorpay, PayPal, and global payment gateways</li>
+  <li>Setting up automated inventory control, sync systems, and dynamic invoicing</li>
+</ul>
 
 </td>
 </tr>
+
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🔗 API Integrations
-CRM sync, lead-gen systems & third-party REST API connections
+### ⚡ Speed & Performance Tuning
+<img src="https://img.shields.io/badge/PageSpeed-80%2B%20Guaranteed-F4B400?style=flat-square" />
+<ul>
+  <li>Optimizing Core Web Vitals to meet rigorous Google PageSpeed benchmarks</li>
+  <li>Implementing advanced caching, CSS/JS minification, and critical path CSS</li>
+  <li>Reducing Time to First Byte (TTFB) to dramatically lower bounce rates</li>
+</ul>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🛡️ Security & Maintenance
-Wordfence hardening, SSL setup, backups & malware prevention
+### 🔗 API & CRM Integrations
+<img src="https://img.shields.io/badge/Connectivity-REST%20APIs%20%7C%20CRMs-0073AA?style=flat-square" />
+<ul>
+  <li>Connecting third-party REST APIs and handling complex webhook payloads</li>
+  <li>Bi-directional lead sync with CRMs like HubSpot, Zoho, and native setups</li>
+  <li>Automating workflows to seamlessly transfer user data safely and reliably</li>
+</ul>
 
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
 
-### 📱 Responsive Design
-Mobile-first, cross-browser-tested layouts for every screen size
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Security & Malware Recovery
+<img src="https://img.shields.io/badge/Security-Hardened%20%7C%20Malware%20Free-EA4335?style=flat-square" />
+<ul>
+  <li>Hardening file permissions, configuring Wordfence, and setting up firewalls</li>
+  <li>Complete cleanup of hacked websites, database sanitization, and malware removal</li>
+  <li>Implementing automated cloud backups and proactive vulnerability monitoring</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Responsive & Mobile-First UI
+<img src="https://img.shields.io/badge/UI%2FUX-Mobile%20First-34A853?style=flat-square" />
+<ul>
+  <li>Designing architectures optimized for fluid, touch-friendly layouts</li>
+  <li>Extensive cross-browser testing to guarantee uniform display on all devices</li>
+  <li>Refining interactive UI elements to maximize user engagement metrics</li>
+</ul>
 
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
