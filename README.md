@@ -16,9 +16,10 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </td>
 </tr>
 </table>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge" /> &nbsp;
-<img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge" /> &nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge&logo=gitkraken&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge&logo=workplace&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Score-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
@@ -32,9 +33,9 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 ## 📊 Career Highlights & GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clock" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20PageSpeed-80%2B%20Score-important?style=for-the-badge&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20PageSpeed-80%2B%20Score-important?style=for-the-badge&logo=googlelighthouse&logoColor=white" />
 </p>
 
 ## 🧩 Technical Skills
@@ -52,21 +53,21 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 ### 🎨 Design to WordPress
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-21759B?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
 ### 🔌 CMS & Advanced ACF
 <p align="left">
   <img src="https://img.shields.io/badge/ACF%20%2F%20Custom%20Fields-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Themes%20%26%20Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Themes%20%26%20Plugins-21759B?style=for-the-badge&logo=wordpressgutenberg&logoColor=white" />
 </p>
 
 ### 🛒 E-Commerce & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/WooCommerce%20Architecture-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP%20REST%20API%20%26%20Webhooks-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay%20%2F%20PayPal-003087?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WP%20REST%20API%20%26%20Webhooks-0073AA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay%20%2F%20PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
 </p>
 
 </td>
@@ -77,26 +78,26 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20%26%20Mobile%20UI-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive%20%26%20Mobile%20UI-34A853?style=for-the-badge&logo=responsiveio&logoColor=white" />
 </p>
 
 ### 🛠️ Advanced Debugging
 <p align="left">
-  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Log%20Analysis-DB4437?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Conflicts-DB4437?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Log%20Analysis-DB4437?style=for-the-badge&logo=scrutinizerci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Conflicts-DB4437?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 ### 📦 Server & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### ⚡ Optimization & Security
 <p align="left">
   <img src="https://img.shields.io/badge/Site%20Speed%20%28CWV%29-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP%20Security%20Hardening-F4B400?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware%20Cleanup%20%26%20Migration-F4B400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WP%20Security%20Hardening-F4B400?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware%20Cleanup-F4B400?style=for-the-badge&logo=eset&logoColor=white" />
 </p>
 
 </td>
@@ -110,7 +111,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### 🔧 Custom WordPress Development
-<img src="https://img.shields.io/badge/Development-Custom%20Themes%20%7C%20Plugins-21759B?style=flat-square" />
+<img src="https://img.shields.io/badge/Development-Custom%20Themes%20%7C%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 <ul>
   <li>Coding pixel-perfect layouts from Figma / Adobe XD designs</li>
   <li>Building scalable Custom Themes, Plugins, and Block/Elementor architectures</li>
@@ -121,7 +122,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### 🛒 WooCommerce E-Commerce
-<img src="https://img.shields.io/badge/E--Commerce-High%20Converting-96588A?style=flat-square" />
+<img src="https://img.shields.io/badge/E--Commerce-High%20Converting-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
 <ul>
   <li>End-to-end store setup and conversion-focused checkout optimization</li>
   <li>Seamless integration with Razorpay, PayPal, and global payment gateways</li>
@@ -135,7 +136,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### ⚡ Speed & Performance Tuning
-<img src="https://img.shields.io/badge/PageSpeed-80%2B%20Guaranteed-F4B400?style=flat-square" />
+<img src="https://img.shields.io/badge/PageSpeed-80%2B%20Guaranteed-F4B400?style=flat-square&logo=googlelighthouse&logoColor=white" />
 <ul>
   <li>Optimizing Core Web Vitals to meet rigorous Google PageSpeed benchmarks</li>
   <li>Implementing advanced caching, CSS/JS minification, and critical path CSS</li>
@@ -146,7 +147,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### 🔗 API & CRM Integrations
-<img src="https://img.shields.io/badge/Connectivity-REST%20APIs%20%7C%20CRMs-0073AA?style=flat-square" />
+<img src="https://img.shields.io/badge/Connectivity-REST%20APIs%20%7C%20CRMs-0073AA?style=flat-square&logo=insomnia&logoColor=white" />
 <ul>
   <li>Connecting third-party REST APIs and handling complex webhook payloads</li>
   <li>Bi-directional lead sync with CRMs like HubSpot, Zoho, and native setups</li>
@@ -160,7 +161,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### 🛡️ Security & Malware Recovery
-<img src="https://img.shields.io/badge/Security-Hardened%20%7C%20Malware%20Free-EA4335?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-Hardened%20%7C%20Malware%20Free-EA4335?style=flat-square&logo=fastly&logoColor=white" />
 <ul>
   <li>Hardening file permissions, configuring Wordfence, and setting up firewalls</li>
   <li>Complete cleanup of hacked websites, database sanitization, and malware removal</li>
@@ -171,7 +172,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ### 📱 Responsive & Mobile-First UI
-<img src="https://img.shields.io/badge/UI%2FUX-Mobile%20First-34A853?style=flat-square" />
+<img src="https://img.shields.io/badge/UI%2FUX-Mobile%20First-34A853?style=flat-square&logo=webflow&logoColor=white" />
 <ul>
   <li>Designing architectures optimized for fluid, touch-friendly layouts</li>
   <li>Extensive cross-browser testing to guarantee uniform display on all devices</li>
@@ -189,10 +190,15 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <td width="50%" valign="top">
 
 ## ☀️ Alligator Solar
-<img src="https://img.shields.io/badge/Industry-Solar%20EPC-F4B400?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-alligatorsolar.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Solar%20EPC-F4B400?style=for-the-badge&logo=solaredge&logoColor=white" /> <img src="https://img.shields.io/badge/Live-alligatorsolar.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, JavaScript, CRM Integration, Figma
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 🔆 Custom Solar Calculator Tool
@@ -206,10 +212,15 @@ WordPress, PHP, JavaScript, CRM Integration, Figma
 <td width="50%" valign="top">
 
 ## 🚗 Galaxy Auto Works
-<img src="https://img.shields.io/badge/Industry-Automotive-1B1B1B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-galaxyautoworks.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Automotive-1B1B1B?style=for-the-badge&logo=gitkraken&logoColor=white" /> <img src="https://img.shields.io/badge/Live-galaxyautoworks.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, HTML5, CSS3, JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 🎨 Premium Automotive UI Design
@@ -226,10 +237,15 @@ WordPress, PHP, HTML5, CSS3, JavaScript
 <td width="50%" valign="top">
 
 ## 🏢 U3 Infotech
-<img src="https://img.shields.io/badge/Industry-IT%20Services-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-u3infotech.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-IT%20Services-0073AA?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-u3infotech.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, JavaScript, Figma, CRM
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CRM-00A0D2?style=flat-square&logo=salesforce&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 🎨 Custom UI Design from Figma
@@ -243,10 +259,14 @@ WordPress, PHP, JavaScript, Figma, CRM
 <td width="50%" valign="top">
 
 ## 🎯 Talensetu
-<img src="https://img.shields.io/badge/Industry-HR%20%26%20Staffing-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-talensetu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-HR%20%26%20Staffing-0073AA?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Live-talensetu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, JavaScript, Custom Portal, Recruitment CRM
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 **✨ Key Features**
 - 👥 Job Board & Candidate Application System
@@ -263,10 +283,15 @@ WordPress, PHP, JavaScript, Custom Portal, Recruitment CRM
 <td width="50%" valign="top">
 
 ## 🕯️ The Aroma Aisle
-<img src="https://img.shields.io/badge/Industry-E--Commerce-96588A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-thearomaaisle.com-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-E--Commerce-96588A?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Live-thearomaaisle.com-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, WooCommerce, Shopify, JavaScript, PayPal
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 🛒 Multi-Platform E-Com (WP + Shopify)
@@ -280,10 +305,15 @@ WordPress, WooCommerce, Shopify, JavaScript, PayPal
 <td width="50%" valign="top">
 
 ## ⚖️ Advisors360
-<img src="https://img.shields.io/badge/Industry-Financial%20Consulting-1565C0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-advisors360.co-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Financial%20Consulting-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Live-advisors360.co-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, HTML5, CSS3, Interactive Elements
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 📊 Interactive Advisory Tools & ROI Calculators
@@ -300,10 +330,14 @@ WordPress, PHP, HTML5, CSS3, Interactive Elements
 <td width="50%" valign="top">
 
 ## 🚚 CVLOG International
-<img src="https://img.shields.io/badge/Industry-Logistics-34A853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-cvloginternational.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Logistics-34A853?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cvloginternational.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, HTML5, CSS3, JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 📱 Fully Responsive UI Design
@@ -317,10 +351,14 @@ WordPress, PHP, HTML5, CSS3, JavaScript
 <td width="50%" valign="top">
 
 ## 💡 Array Logic
-<img src="https://img.shields.io/badge/Industry-IT%20%26%20Academy-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-arraylogic.in-0073AA?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-IT%20%26%20Academy-0073AA?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Live-arraylogic.in-0073AA?style=for-the-badge&logo=html5&logoColor=white" />
 
 **🏷️ Tech Stack**
-HTML5, CSS3, JavaScript ES6, Responsive Design
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 **✨ Key Features**
 - 💻 100% Custom-Coded — No Page Builder
@@ -337,10 +375,15 @@ HTML5, CSS3, JavaScript ES6, Responsive Design
 <td width="50%" valign="top">
 
 ## ☁️ Cloud IBN
-<img src="https://img.shields.io/badge/Industry-Cloud%20%26%20IT-F38020?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-cloudibn.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Cloud%20%26%20IT-F38020?style=for-the-badge&logo=icloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cloudibn.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, Elementor, PHP, JavaScript, Cloudflare
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 🏗️ Enterprise Corporate Website
@@ -354,10 +397,15 @@ WordPress, Elementor, PHP, JavaScript, Cloudflare
 <td width="50%" valign="top">
 
 ## 📰 Swift N Lift Media
-<img src="https://img.shields.io/badge/Industry-Media%20%26%20News-1565C0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-swiftnliftmedia.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Industry-Media%20%26%20News-1565C0?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/Live-swiftnliftmedia.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
-WordPress, PHP, JavaScript, MySQL, WP Rocket
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 **✨ Key Features**
 - 📡 News Distribution & Publishing
