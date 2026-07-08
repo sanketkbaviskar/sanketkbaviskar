@@ -31,8 +31,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 ## 📊 Career Highlights & GitHub Stats
 
 <p align="center">
@@ -139,8 +137,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 </table>
 
----
-
 ## ⚡ Services & Solutions
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -220,8 +216,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 </table>
 
----
-
 ## 🚀 Featured Projects
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -265,8 +259,6 @@ WordPress, PHP, HTML5, CSS3, JavaScript
 <tr>
 <td width="50%" valign="top">
 
----
-
 ## 🏢 U3 Infotech
 <img src="https://img.shields.io/badge/Industry-IT%20Services-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-u3infotech.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
@@ -283,8 +275,6 @@ WordPress, PHP, JavaScript, Figma, CRM
 
 </td>
 <td width="50%" valign="top">
-
----
 
 ## 🎯 Talensetu
 <img src="https://img.shields.io/badge/Industry-HR%20%26%20Staffing-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-talensetu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -306,8 +296,6 @@ WordPress, PHP, JavaScript, Custom Portal, Recruitment CRM
 <tr>
 <td width="50%" valign="top">
 
----
-
 ## 🕯️ The Aroma Aisle
 <img src="https://img.shields.io/badge/Industry-E--Commerce-96588A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-thearomaaisle.com-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
@@ -324,8 +312,6 @@ WordPress, WooCommerce, Shopify, JavaScript, PayPal
 
 </td>
 <td width="50%" valign="top">
-
----
 
 ## ⚖️ Advisors360
 <img src="https://img.shields.io/badge/Industry-Financial%20Consulting-1565C0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-advisors360.co-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -347,8 +333,6 @@ WordPress, PHP, HTML5, CSS3, Interactive Elements
 <tr>
 <td width="50%" valign="top">
 
----
-
 ## 🚚 CVLOG International
 <img src="https://img.shields.io/badge/Industry-Logistics-34A853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-cvloginternational.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
@@ -365,8 +349,6 @@ WordPress, PHP, HTML5, CSS3, JavaScript
 
 </td>
 <td width="50%" valign="top">
-
----
 
 ## 💡 Array Logic
 <img src="https://img.shields.io/badge/Industry-IT%20%26%20Academy-0073AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-arraylogic.in-0073AA?style=for-the-badge&logo=html5&logoColor=white" />
@@ -388,8 +370,6 @@ HTML5, CSS3, JavaScript ES6, Responsive Design
 <tr>
 <td width="50%" valign="top">
 
----
-
 ## ☁️ Cloud IBN
 <img src="https://img.shields.io/badge/Industry-Cloud%20%26%20IT-F38020?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-cloudibn.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
@@ -406,8 +386,6 @@ WordPress, Elementor, PHP, JavaScript, Cloudflare
 
 </td>
 <td width="50%" valign="top">
-
----
 
 ## 📰 Swift N Lift Media
 <img src="https://img.shields.io/badge/Industry-Media%20%26%20News-1565C0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-swiftnliftmedia.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -427,15 +405,11 @@ WordPress, PHP, JavaScript, MySQL, WP Rocket
 </tr>
 </table>
 
----
-
 ## 🎯 What I’m Looking For
 
 * **Full-Time / Contract Roles:** Dynamic developer positions focusing on engineering scalable WordPress solutions, performance optimization, or e-commerce architectures.
 * **Custom Dynamic Projects:** High-converting Woo/WP websites that require deep API connectivity, custom theme structures, or plugin logic from scratch.
 * **Collaboration with Agencies:** Partnering with design frameworks (Figma/Adobe XD) to build pixel-perfect frontends matched with reliable, modern PHP frameworks.
-
----
 
 ## 📬 Get in Touch
 
