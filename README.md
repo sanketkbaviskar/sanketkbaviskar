@@ -141,8 +141,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 ---
 
----
-
 ## ⚡ Services & Solutions
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -221,8 +219,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </td>
 </tr>
 </table>
-
----
 
 ---
 
