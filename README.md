@@ -7,17 +7,15 @@
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td width="45%" align="center" valign="middle">
-  <!-- ORIGINAL DEVELOPER GIF -->
   <img src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" />
 </td>
 <td width="55%" valign="middle">
 
-I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experience** shipping **40+ production websites**, from solar-industry lead engines to multi-platform e-commerce stores. I specialize in **custom themes/plugins**, **Core Web Vitals optimization**, and **CRM/payment integrations** that turn traffic into customers.
+I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experience** shipping **40+ production websites**, from solar-industry lead engines to multi-platform e-commerce stores. I specialize in custom themes/plugins, Core Web Vitals optimization, and CRM/payment integrations that turn traffic into customers.
 
 </td>
 </tr>
 </table>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge" /> &nbsp;
 <img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge" /> &nbsp;
