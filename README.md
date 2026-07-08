@@ -50,87 +50,60 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Languages
+### 💻 Core Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🛒 CMS & E-Commerce
-<p align="left">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACF-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Themes-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-### ⚡ Frontend, Database & Git
-<p align="left">
-  <img src="https://img.shields.io/badge/Responsive%20Design-34A853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile--First-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP%20%28OOP%29-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🧠 Problem Solving & Analytics
+### 🎨 Design to WordPress
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logical%20Reasoning-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debugging%20Process-DB4437?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
-### 🤖 AI Tools & Workflow
+### 🔌 CMS & Advanced ACF
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity%20AI-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACF%20%2F%20Custom%20Fields-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Themes%20%26%20Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### 🛒 E-Commerce & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/WooCommerce%20Architecture-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20REST%20API%20%26%20Webhooks-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay%20%2F%20PayPal-003087?style=for-the-badge" />
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Performance Optimization
+### 🌐 Frontend Foundations
 <p align="left">
-  <img src="https://img.shields.io/badge/PageSpeed%20Optimization-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image%20Optimization-F4B400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lazy%20Loading-F4B400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Caching-F4B400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20%26%20Mobile%20UI-34A853?style=for-the-badge" />
 </p>
 
-### 🌐 Hosting & Integrations
+### 🛠️ Advanced Debugging
 <p align="left">
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bluehost-0066CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Log%20Analysis-DB4437?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Conflicts-DB4437?style=for-the-badge" />
 </p>
 
-### 🛡️ Security & Malware Recovery
+### 📦 Server & Version Control
 <p align="left">
-  <img src="https://img.shields.io/badge/Wordfence%20Security-EA4335?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSL%20Implementation-EA4335?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Malware%20Prevention-EA4335?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hacked%20Website%20Recovery-Active?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/MySQL%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🤝 Client & Site Management
+### ⚡ Optimization & Security
 <p align="left">
-  <img src="https://img.shields.io/badge/Client%20Handling-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Client%20Management-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Website%20Maintenance-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Migration-0F9D58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Site%20Speed%20%28CWV%29-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20Security%20Hardening-F4B400?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware%20Cleanup%20%26%20Migration-F4B400?style=for-the-badge" />
 </p>
 
 </td>
