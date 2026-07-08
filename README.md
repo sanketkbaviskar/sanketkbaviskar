@@ -12,6 +12,7 @@
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td width="45%" align="center" valign="middle">
+  <!-- ORIGINAL GIF ADDED BACK AS REQUESTED -->
   <img src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" />
 </td>
 <td width="55%" valign="middle">
