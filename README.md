@@ -7,7 +7,7 @@
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td width="45%" align="center" valign="middle">
-  <!-- ORIGINAL GIF ADDED BACK AS REQUESTED -->
+  <!-- ORIGINAL DEVELOPER GIF -->
   <img src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" />
 </td>
 <td width="55%" valign="middle">
@@ -25,8 +25,8 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </p>
 
 <p align="center">
-  <a href="https://sanketbaviskar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/skbaviskar99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sanketbaviskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sanketkbaviskar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -411,6 +411,7 @@ WordPress, PHP, JavaScript, MySQL, WP Rocket
 
 <p align="center">
   <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-sanket12b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/skbaviskar99"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://sanketbaviskar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="tel:+917080705750"><img src="https://img.shields.io/badge/Phone-%2B91%207080705750-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://sanketbaviskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
