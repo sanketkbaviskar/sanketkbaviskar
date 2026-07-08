@@ -23,13 +23,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Score-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://sanketbaviskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sanketkbaviskar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ## 📊 Career Highlights & GitHub Stats
 
 <p align="center">
@@ -437,3 +430,5 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://sanketbaviskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
+
+
