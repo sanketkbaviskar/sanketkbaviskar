@@ -32,18 +32,30 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 📊 Career Highlights & GitHub Stats
+## 📊 Career Metrics & Snapshot
 
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
+<tr>
+<td valign="top" bgcolor="#F4F6F9" align="center">
+
+### ⚡ Professional Summary
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" /><br/><br/>
   <img src="https://img.shields.io/badge/Google%20PageSpeed-80%2B%20Score-important?style=for-the-badge&logo=googlelighthouse&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketkbaviskar&show_icons=true&theme=gotham&count_private=true" alt="Sanket's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkbaviskar&layout=compact&theme=gotham" alt="Sanket's Most Used Languages" />
-</p>
+</td>
+<td valign="top" bgcolor="#FFFFFF">
+
+### 🛠️ Key Architectural Focus
+* **Custom Engine Design:** Clean, dynamic layouts structured around strict OOP PHP architecture and WordPress core design patterns.
+* **WooCommerce & Core Integration:** Setting up lightweight e-commerce frameworks with deep third-party sync layers.
+* **Performance Engineering:** Optimization flows focused purely on resolving rendering blocks and minimizing Core Web Vitals delay.
+
+</td>
+</tr>
+</table>
 
 ## 🧩 Technical Skills
 
@@ -437,11 +449,6 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </td>
 </tr>
 </table>
-
-## 👾 Contribution Activity Game
-<p align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
 
 ## 📬 Get in Touch
 
