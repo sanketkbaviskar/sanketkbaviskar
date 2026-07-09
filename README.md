@@ -69,6 +69,8 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <img src="https://img.shields.io/badge/Figma%20to%20WP-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/Core%20Web%20Vitals-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Conflicts-E34F26?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20Security%20%26%20Malware-28A745?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
