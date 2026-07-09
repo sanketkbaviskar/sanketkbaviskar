@@ -65,11 +65,11 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma%20to%20WP-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/Core%20Web%20Vitals-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Optimization-DB4437?style=for-the-badge&logo=scrutinizerci&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integrations-0073AA?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </td>
