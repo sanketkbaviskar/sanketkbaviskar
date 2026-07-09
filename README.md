@@ -20,8 +20,8 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge&logo=gitkraken&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge&logo=workplace&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge&logo=gitkraken&logoColor=white" />
+<img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge&logo=workplace&logoColor=white" />
 <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Score-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
@@ -35,22 +35,15 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 ## 📊 Career Highlights & GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20PageSpeed-80%2B%20Score-important?style=for-the-badge&logo=googlelighthouse&logoColor=white" />
 </p>
 
-<!-- Real-time GitHub Activity Cards Panel -->
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketkbaviskar&show_icons=true&theme=transparent&title_color=21759B&icon_color=0073AA&text_color=333333&bg_color=00000000&hide_border=true&count_private=true" width="100%" alt="Sanket's GitHub Stats" />
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkbaviskar&layout=compact&theme=transparent&title_color=21759B&text_color=333333&bg_color=00000000&hide_border=true" width="100%" alt="Sanket's Most Used Languages" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketkbaviskar&show_icons=true&theme=gotham&count_private=true" alt="Sanket's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkbaviskar&layout=compact&theme=gotham" alt="Sanket's Most Used Languages" />
+</p>
 
 ## 🧩 Technical Skills
 
@@ -298,7 +291,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&where=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 **✨ Key Features**
@@ -447,7 +440,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 ## 👾 Contribution Activity Game
 <p align="center">
-  <img src="https://github-readme-盛り込み-snake.vercel.app/api/github-contribution-grid-snake?username=sanketkbaviskar&palette=github-light" alt="GitHub Contribution Snake Animation" width="100%" />
+  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ## 📬 Get in Touch
@@ -457,8 +450,8 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </p>
 
 <p align="center">
-  <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-sanket12b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="tel:+917080705750"><img src="https://img.shields.io/badge/Phone-%2B91%207080705750-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-sanket12b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+917080705750"><img src="https://img.shields.io/badge/Phone-%2B91%207080705750-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanketbaviskar"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sanketbaviskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-21759B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
