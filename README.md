@@ -46,60 +46,30 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 <tr>
 <td valign="top" bgcolor="#F4F6F9">
 
-### 💻 Core Programming
+### 💻 Back-End & WordPress Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/PHP%20%28OOP%29-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🎨 Design to WordPress
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma%20to%20WordPress-21759B?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-</p>
-
-### 🔌 CMS & Advanced ACF
-<p align="left">
-  <img src="https://img.shields.io/badge/ACF%20%2F%20Custom%20Fields-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Themes%20%26%20Plugins-21759B?style=for-the-badge&logo=wordpressgutenberg&logoColor=white" />
-</p>
-
-### 🛒 E-Commerce & APIs
-<p align="left">
+  <img src="https://img.shields.io/badge/WordPress%20Core-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20Themes%20%26%20Plugins-00749A?style=for-the-badge&logo=wordpressgutenberg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20Custom%20Fields-00A0D2?style=for-the-badge&logo=wpengine&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce%20Architecture-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP%20REST%20API%20%26%20Webhooks-0073AA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay%20%2F%20PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP%20REST%20API-1B75BB?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 </td>
 
 <td valign="top" bgcolor="#FFFFFF">
 
-### 🌐 Frontend Foundations
+### 🌐 Front-End & Engineering Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20%20UI-34A853?style=for-the-badge&logo=responsiveio&logoColor=white" />
-</p>
-
-### 🛠️ Advanced Debugging
-<p align="left">
-  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Logs-DB4437?style=for-the-badge&logo=scrutinizerci&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Conflicts-DB4437?style=for-the-badge&logo=probot&logoColor=white" />
-</p>
-
-### 📦 Server & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma%20to%20WP-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/WP__DEBUG%20%26%20Optimization-DB4437?style=for-the-badge&logo=scrutinizerci&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### ⚡ Optimization & Security
-<p align="left">
-  <img src="https://img.shields.io/badge/Site%20Speed%20%28CWV%29-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP%20Security-F4B400?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware%20Cleanup-F4B400?style=for-the-badge&logo=eset&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integrations-0073AA?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </td>
