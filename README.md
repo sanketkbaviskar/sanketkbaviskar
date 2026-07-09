@@ -6,10 +6,10 @@
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr bgcolor="#F4F6F9">
-<td width="45%" align="center" valign="middle">
-  <img src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" style="border-radius: 8px;" />
+<td align="center" valign="middle">
+  <img src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" style="max-width: 400px; border-radius: 8px;" />
 </td>
-<td width="55%" valign="middle">
+<td valign="middle">
 
 I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experience** shipping **40+ production websites**, from solar-industry lead engines to multi-platform e-commerce stores. I specialize in custom themes/plugins, Core Web Vitals optimization, and CRM/payment integrations that turn traffic into customers.
 
@@ -44,7 +44,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### 💻 Core Programming
 <p align="left">
@@ -74,7 +74,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ### 🌐 Frontend Foundations
 <p align="left">
@@ -110,7 +110,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### 🔧 Custom WordPress Development
 <img src="https://img.shields.io/badge/Development-Custom%20Themes%20%7C%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -121,7 +121,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </ul>
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ### 🛒 WooCommerce E-Commerce
 <img src="https://img.shields.io/badge/E--Commerce-High%20Converting-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
@@ -135,7 +135,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### ⚡ Speed & Performance Tuning
 <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Guaranteed-F4B400?style=flat-square&logo=googlelighthouse&logoColor=white" />
@@ -146,7 +146,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </ul>
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ### 🔗 API & CRM Integrations
 <img src="https://img.shields.io/badge/Connectivity-REST%20APIs%20%7C%20CRMs-0073AA?style=flat-square&logo=insomnia&logoColor=white" />
@@ -160,7 +160,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### 🛡️ Security & Malware Recovery
 <img src="https://img.shields.io/badge/Security-Hardened%20%7C%20Malware%20Free-EA4335?style=flat-square&logo=fastly&logoColor=white" />
@@ -171,7 +171,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </ul>
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ### 📱 Responsive & Mobile-First UI
 <img src="https://img.shields.io/badge/UI%2FUX-Mobile%20First-34A853?style=flat-square&logo=webflow&logoColor=white" />
@@ -189,7 +189,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ## ☀️ Alligator Solar
 <img src="https://img.shields.io/badge/Industry-Solar%20EPC-F4B400?style=for-the-badge&logo=solaredge&logoColor=white" /> <img src="https://img.shields.io/badge/Live-alligatorsolar.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -211,7 +211,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 🔗 **[Visit Website →](https://alligatorsolar.com)**
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ## 🚗 Galaxy Auto Works
 <img src="https://img.shields.io/badge/Industry-Automotive-1B1B1B?style=for-the-badge&logo=gitkraken&logoColor=white" /> <img src="https://img.shields.io/badge/Live-galaxyautoworks.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -236,7 +236,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ## 🏢 U3 Infotech
 <img src="https://img.shields.io/badge/Industry-IT%20Services-0073AA?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-u3infotech.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -258,7 +258,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 🔗 **[Visit Website →](https://u3infotech.com)**
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ## 🎯 Talensetu
 <img src="https://img.shields.io/badge/Industry-HR%20%26%20Staffing-0073AA?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Live-talensetu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -282,7 +282,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ## 🕯️ The Aroma Aisle
 <img src="https://img.shields.io/badge/Industry-E--Commerce-96588A?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Live-thearomaaisle.com-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
@@ -304,7 +304,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 🔗 **[Visit Website →](https://thearomaaisle.com)**
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ## ⚖️ Advisors360
 <img src="https://img.shields.io/badge/Industry-Financial-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Live-advisors360.co-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -329,7 +329,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ## 🚚 CVLOG International
 <img src="https://img.shields.io/badge/Industry-Logistics-34A853?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cvloginternational.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -350,7 +350,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 🔗 **[Visit Website →](https://cvloginternational.com)**
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ## 💡 Array Logic
 <img src="https://img.shields.io/badge/Industry-IT%20%26%20Academy-0073AA?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Live-arraylogic.in-0073AA?style=for-the-badge&logo=html5&logoColor=white" />
@@ -374,7 +374,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </tr>
 
 <tr>
-<td width="50%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ## ☁️ Cloud IBN
 <img src="https://img.shields.io/badge/Industry-Cloud%20%26%20IT-F38020?style=for-the-badge&logo=icloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cloudibn.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -396,7 +396,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 🔗 **[Visit Website →](https://cloudibn.com)**
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ## 📰 Swift N Lift Media
 <img src="https://img.shields.io/badge/Industry-Media%20%26%20News-1565C0?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/Live-swiftnliftmedia.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -425,7 +425,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td width="33%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### 💼 Roles & Contracts
 <img src="https://img.shields.io/badge/Engagement-Full--Time%20%7C%20Contract-0073AA?style=flat-square&logo=workplace&logoColor=white" />
@@ -436,7 +436,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </ul>
 
 </td>
-<td width="33%" valign="top" bgcolor="#FFFFFF">
+<td valign="top" bgcolor="#FFFFFF">
 
 ### ⚙️ Custom Solutions
 <img src="https://img.shields.io/badge/Scope-Bespoke%20%26%20Dynamic-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
@@ -447,7 +447,7 @@ I'm Sanket - a **WordPress & WooCommerce developer** with **2.5+ years of experi
 </ul>
 
 </td>
-<td width="33%" valign="top" bgcolor="#F4F6F9">
+<td valign="top" bgcolor="#F4F6F9">
 
 ### 🤝 Agency Partnerships
 <img src="https://img.shields.io/badge/Focus-Figma%20to%20Code-28a745?style=flat-square&logo=figma&logoColor=white" />
