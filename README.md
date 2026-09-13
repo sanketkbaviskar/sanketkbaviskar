@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of experience</b> shipping <b>40+ production websites</b>, from solar-industry lead engines to multi-platform e-commerce stores. I specialize in custom themes/plugins, Core Web Vitals optimization, and CRM/payment integrations that turn traffic into customers.
+  I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of experience</b> shipping <b>40+ production websites</b>, from solar-industry lead engines to multi-platform e-commerce stores. I specialize in custom themes/plugins, Core Web Vitals optimization, and CRM/payment integrations that turn traffic into customers.
 </p>
 
 <br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge&logo=gitkraken&logoColor=white" />
-<img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge&logo=workplace&logoColor=white" />
-<img src="https://img.shields.io/badge/PageSpeed-80%2B%20Score-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-28a745?style=for-the-badge&logo=gitkraken&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Remote-0073AA?style=for-the-badge&logo=workplace&logoColor=white" />
+  <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Score-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 <p align="center">
@@ -23,9 +23,20 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
   <a href="mailto:sanket12b@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanketkbaviskar/sanketkbaviskar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ## 📊 Career Metrics & Snapshot
 
 ### ⚡ Professional Summary
+
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/Websites%20Delivered-40%2B-success?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -33,6 +44,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 ### 🛠️ Key Architectural Focus
+
 * **Custom Engine Design:** Clean, dynamic layouts structured around strict OOP PHP architecture and WordPress core design patterns.
 * **WooCommerce & Core Integration:** Setting up lightweight e-commerce frameworks with deep third-party sync layers.
 * **Performance Engineering:** Optimization flows focused purely on resolving rendering blocks and minimizing Core Web Vitals delay.
@@ -40,6 +52,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ## 🧩 Technical Skills
 
 ### 💻 Back-End & WordPress Architecture
+
 <p align="left">
   <img src="https://img.shields.io/badge/PHP%20%28OOP%29-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress%20Core-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -51,6 +64,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 ### 🌐 Front-End & Engineering Workflows
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,7 +80,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ## ⚡ Services & Solutions
 
 ### 🔧 Custom WordPress Development
+
 <img src="https://img.shields.io/badge/Development-Custom%20Themes%20%7C%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+
 <ul>
   <li>Coding pixel-perfect layouts from Figma / Adobe XD designs</li>
   <li>Building scalable Custom Themes, Plugins, and Block/Elementor architectures</li>
@@ -74,7 +90,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### 🛒 WooCommerce E-Commerce
+
 <img src="https://img.shields.io/badge/E--Commerce-High%20Converting-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+
 <ul>
   <li>End-to-end store setup and conversion-focused checkout optimization</li>
   <li>Seamless integration with Razorpay, PayPal, and global payment gateways</li>
@@ -82,7 +100,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### ⚡ Speed & Performance Tuning
+
 <img src="https://img.shields.io/badge/PageSpeed-80%2B%20Guaranteed-F4B400?style=flat-square&logo=googlelighthouse&logoColor=white" />
+
 <ul>
   <li>Optimizing Core Web Vitals to meet rigorous Google PageSpeed benchmarks</li>
   <li>Implementing advanced caching, CSS/JS minification, and critical path CSS</li>
@@ -90,7 +110,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### 🔗 API & CRM Integrations
+
 <img src="https://img.shields.io/badge/Connectivity-REST%20APIs%20%7C%20CRMs-0073AA?style=flat-square&logo=insomnia&logoColor=white" />
+
 <ul>
   <li>Connecting third-party REST APIs and handling complex webhook payloads</li>
   <li>Bi-directional lead sync with CRMs like HubSpot, Zoho, and native setups</li>
@@ -98,7 +120,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### 🛡️ Security & Malware Recovery
+
 <img src="https://img.shields.io/badge/Security-Hardened%20%7C%20Malware%20Free-EA4335?style=flat-square&logo=fastly&logoColor=white" />
+
 <ul>
   <li>Hardening file permissions, configuring Wordfence, and setting up firewalls</li>
   <li>Complete cleanup of hacked websites, database sanitization, and malware removal</li>
@@ -106,7 +130,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### 📱 Responsive & Mobile-First UI
+
 <img src="https://img.shields.io/badge/UI%2FUX-Mobile%20First-34A853?style=flat-square&logo=webflow&logoColor=white" />
+
 <ul>
   <li>Designing architectures optimized for fluid, touch-friendly layouts</li>
   <li>Extensive cross-browser testing to guarantee uniform display on all devices</li>
@@ -116,9 +142,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ## 🚀 Featured Projects
 
 ### ☀️ Alligator Solar
+
 <img src="https://img.shields.io/badge/Industry-Solar%20EPC-F4B400?style=for-the-badge&logo=solaredge&logoColor=white" /> <img src="https://img.shields.io/badge/Live-alligatorsolar.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -127,6 +155,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 🔆 Custom Solar Calculator Tool
 - 🤖 AI Assistant Integration
 - 📋 CRM Sync & Lead Gen System
@@ -137,9 +166,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 🚗 Galaxy Auto Works
+
 <img src="https://img.shields.io/badge/Industry-Automotive-1B1B1B?style=for-the-badge&logo=gitkraken&logoColor=white" /> <img src="https://img.shields.io/badge/Live-galaxyautoworks.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -148,6 +179,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 🎨 Premium Automotive UI Design
 - 🤖 AI Vehicle Diagnostic Tool
 - 🖼️ Interactive Service Gallery
@@ -158,9 +190,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 🏢 U3 Infotech
+
 <img src="https://img.shields.io/badge/Industry-IT%20Services-0073AA?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-u3infotech.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -169,6 +203,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 🎨 Custom UI Design from Figma
 - 🤖 AI Assistant Bot Integration
 - 📋 Career CRM & Lead Generation
@@ -179,9 +214,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 🎯 Talensetu
+
 <img src="https://img.shields.io/badge/Industry-HR%20%26%20Staffing-0073AA?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Live-talensetu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -189,6 +226,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 👥 Job Board & Candidate Application System
 - 🏢 Client Hiring Management Panel
 - 🎯 Advanced Candidate Filtering
@@ -199,9 +237,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 🕯️ The Aroma Aisle
+
 <img src="https://img.shields.io/badge/Industry-E--Commerce-96588A?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Live-thearomaaisle.com-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
@@ -210,6 +250,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 🛒 Multi-Platform E-Com (WP + Shopify)
 - 💳 Payment Gateway Integration
 - 📦 Custom Product Layouts & Templates
@@ -220,9 +261,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### ⚖️ Advisors360
+
 <img src="https://img.shields.io/badge/Industry-Financial-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Live-advisors360.co-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -231,6 +274,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 📊 Interactive Advisory Tools & ROI Calculators
 - 📅 Automated Consultation Scheduling System
 - 🔒 Client Portal & Safe Inquiry Form Processing
@@ -241,9 +285,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 🚚 CVLOG International
+
 <img src="https://img.shields.io/badge/Industry-Logistics-34A853?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cvloginternational.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -251,6 +297,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 📱 Fully Responsive UI Design
 - 📝 Custom Forms & Portfolio Section
 - 🎯 Lead Management System
@@ -261,9 +308,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 💡 Array Logic
+
 <img src="https://img.shields.io/badge/Industry-IT%20%26%20Academy-0073AA?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Live-arraylogic.in-0073AA?style=for-the-badge&logo=html5&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -271,6 +320,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 💻 100% Custom-Coded — No Page Builder
 - 🎯 Interactive UI Components
 - 🗂️ Portfolio & Course Showcase
@@ -281,9 +331,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### ☁️ Cloud IBN
+
 <img src="https://img.shields.io/badge/Industry-Cloud%20%26%20IT-F38020?style=for-the-badge&logo=icloud&logoColor=white" /> <img src="https://img.shields.io/badge/Live-cloudibn.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
@@ -292,6 +344,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 🏗️ Enterprise Corporate Website
 - 📄 Service & Cloud Solutions Pages
 - 🔍 Full SEO Optimization
@@ -302,9 +355,11 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ---
 
 ### 📰 Swift N Lift Media
+
 <img src="https://img.shields.io/badge/Industry-Media%20%26%20News-1565C0?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/Live-swiftnliftmedia.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 **🏷️ Tech Stack**
+
 <p align="left">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -313,6 +368,7 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </p>
 
 **✨ Key Features**
+
 - 📡 News Distribution & Publishing
 - 🗂️ Full Content Management (CMS)
 - ⚡ Caching & Performance Optimization
@@ -323,7 +379,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 ## 🎯 What I'm Looking For
 
 ### 💼 Roles & Contracts
+
 <img src="https://img.shields.io/badge/Engagement-Full--Time%20%7C%20Contract-0073AA?style=flat-square&logo=workplace&logoColor=white" />
+
 <ul>
   <li>Dynamic developer roles focusing on engineering highly scalable WordPress ecosystems</li>
   <li>Core Web Vitals & complex database level performance tuning</li>
@@ -331,7 +389,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### ⚙️ Custom Solutions
+
 <img src="https://img.shields.io/badge/Scope-Bespoke%20%26%20Dynamic-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+
 <ul>
   <li>High-converting WooCommerce installations built natively from the ground up</li>
   <li>Deep API integrations, custom webhooks, and third-party SaaS management</li>
@@ -339,7 +399,9 @@ I'm Sanket - a <b>WordPress & WooCommerce developer</b> with <b>2.5+ years of ex
 </ul>
 
 ### 🤝 Agency Partnerships
+
 <img src="https://img.shields.io/badge/Focus-Figma%20to%20Code-28a745?style=flat-square&logo=figma&logoColor=white" />
+
 <ul>
   <li>Transforming intricate design layouts (Figma / Adobe XD) into lightweight templates</li>
   <li>Partnering with fast-paced teams to deliver pixel-perfect responsive layouts</li>
